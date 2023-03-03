@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartScene.unity
+    guid: 26b01ecd44076c249a9fd79d8e3a8542
+  - enabled: 1
+    path: Assets/Scenes/RoundSelect.unity
+    guid: 8a4bc39f9748ade4d93cd358c5457584
+  - enabled: 1
+    path: Assets/Scenes/Loading.unity
+    guid: 8b58bea40dcb3174b8c190b3dc35fe24
+  - enabled: 1
+    path: Assets/Scenes/island.unity
+    guid: 4ce5df75f0ba1a941b10ab0b5b2e3a0e
+  - enabled: 1
+    path: Assets/Scenes/Make.unity
+    guid: 8873e80c4a22f0c4cac358b4895f59da
+  - enabled: 1
+    path: Assets/Scenes/Battlefield.unity
+    guid: 3bb67a5d5c7baa34293754534eb481a1
+  m_configObjects: {}

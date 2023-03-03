@@ -1,0 +1,8 @@
+name,df,maxhp,wood,rock,ore
+Wood_Upper,2,5,10,0,0
+Wood_Under,2,5,10,0,0
+Wood_Shoe,1,3,8,0,0
+Iron_Helmet,3,7,8,8,2
+Iron_Upper,3,7,8,8,2
+Iron_Under,3,7,8,8,2
+Iron_Shoe,2,5,5,5,1

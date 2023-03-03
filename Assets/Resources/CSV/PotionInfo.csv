@@ -1,0 +1,4 @@
+name,hp,herb,flower,mushroom
+Low_Potion,25,5,0,0
+Middle_Potion,50,10,5,0
+High_Potion,75,15,10,5

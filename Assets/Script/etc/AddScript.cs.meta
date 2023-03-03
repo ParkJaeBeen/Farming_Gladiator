@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 2387846a54645134f96d59842043771f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Tree: {fileID: 2800000, guid: e695247d0a23e8641b47e73843f64e89, type: 3}
+  - Rock: {fileID: 2800000, guid: 394baed05766469499fd5a88132f18b5, type: 3}
+  - Flower: {fileID: 2800000, guid: 68b0d922ab566644d886e72f74c10e22, type: 3}
+  - Herb: {fileID: 2800000, guid: 9372e012c6f7b2441af807f84c30614e, type: 3}
+  - Mushroom: {fileID: 2800000, guid: 577407fa7f48afc4596be388c03dc1df, type: 3}
+  - defaultCursor: {fileID: 2800000, guid: 5d1ef9170fa8ebb40a3b2edc34fea10d, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
